@@ -39,9 +39,15 @@ Built for the **Cyfuture AI Hackathon**.
 
 ```bash
 git clone https://github.com/sreevamsi2005/Cyfuture-AI-Hackathon.git
+```
+```bash
 cd Cyfuture-AI-Hackathon
+```
+```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+```bash
+On Windows: venv\Scripts\activate
 ```
 
 ### 2. Install Python Dependencies

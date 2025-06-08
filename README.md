@@ -38,7 +38,7 @@ Built for the **Cyfuture AI Hackathon**.
 ### 1. Clone the Repo & Setup Virtual Environment
 
 ```bash
-git clone [https://github.com/your-username/llama3-resume-screener](https://github.com/sreevamsi2005/Cyfuture-AI-Hackathon).git
+git clone (https://github.com/sreevamsi2005/Cyfuture-AI-Hackathon.git)
 cd Cyfuture-AI-Hackathon
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate

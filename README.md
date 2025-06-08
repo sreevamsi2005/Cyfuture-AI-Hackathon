@@ -38,7 +38,7 @@ Built for the **Cyfuture AI Hackathon**.
 ### 1. Clone the Repo & Setup Virtual Environment
 
 ```bash
-git clone (https://github.com/sreevamsi2005/Cyfuture-AI-Hackathon.git)
+git clone https://github.com/sreevamsi2005/Cyfuture-AI-Hackathon.git
 cd Cyfuture-AI-Hackathon
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -61,7 +61,7 @@ ollama run llama3
 ### 4. Launch the Streamlit App
 
 ```bash
-streamlit run resume_dashboard_app.py
+streamlit run app.py
 ```
 
 ---
